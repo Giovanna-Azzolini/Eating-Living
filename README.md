@@ -28,4 +28,4 @@ Um projeto simples porém que abriu um leque de possibilidades em minha mente.
 
 ---
 
-Feito com ♥ 
+Feito com 💜
