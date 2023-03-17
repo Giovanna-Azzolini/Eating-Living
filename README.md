@@ -1,4 +1,4 @@
-<h1 align="center"> EATING LIVING </h1>
+<h1 align="center"> EATING FOR LIVING </h1>
 
 <p align="center">
 Uma Landing Page voltada para a conscientização da boa alimentação🍇
